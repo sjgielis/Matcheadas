@@ -1,0 +1,30 @@
+.swal-title {
+    font-family: 'Lobster', cursive;
+    color: rgb(251, 51, 78);
+    font: size 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+
+.swal-button{
+    background-color: rgb(241, 18, 55);
+    color: white;
+}  
+
+.swal-text{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: rgb(251, 51, 78);
+}
+
+.swal-modal {
+    background-color: white;
+    border: 3px solid rgb(251, 51, 78);
+    width: 26rem;
+    border-radius: 20px;
+    margin-top: 200px;    
+  }
+  
